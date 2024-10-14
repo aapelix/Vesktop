@@ -1,4 +1,4 @@
-# Vesktop
+# Vesktop (uncute edition)
 
 ### Currently the only way to install this version of Vesktop is to build it from source
 ### because I'm too lazy to make a proper release. See [building from source](#building-from-source) below
