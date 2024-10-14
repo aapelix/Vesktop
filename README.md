@@ -41,3 +41,5 @@ pnpm package --linux pacman
 # Or package to a directory only
 pnpm package:dir
 ```
+
+# Huge thanks to https://github.com/Covkie for making the icons. Hoping I can even use them :skull:
