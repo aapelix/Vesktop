@@ -25,7 +25,7 @@ Vesktop is a custom Discord desktop app
 Packaging will create builds in the dist/ folder
 
 ```sh
-git clone https://github.com/Vencord/Vesktop
+git clone https://github.com/aapelix/Vesktop
 cd Vesktop
 
 # Install Dependencies
