@@ -1,7 +1,7 @@
 # Vesktop (uncute edition)
 
-### Currently the only way to install this version of Vesktop is to build it from source
-### because I'm too lazy to make a proper release. See [building from source](#building-from-source) below
+### Downloads for linux can be found [here](https://github.com/aapelix/Vesktop/releases/latest)
+### for other operating systems see [building from source](#building-from-source) below
 
 Vesktop is a custom Discord desktop app
 
@@ -37,7 +37,7 @@ pnpm start
 # Or package
 pnpm package
 # Or only build the pacman target
-pnpm package --linux pacman
+pnpm package --windows
 # Or package to a directory only
 pnpm package:dir
 ```
